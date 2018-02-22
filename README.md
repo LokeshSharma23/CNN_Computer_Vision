@@ -1,11 +1,11 @@
-# CNN_Computer_Vision
-# Classifying images using Convolution Neural Network and Keras-Tensorflow Backend
+CNN_Computer_Vision
+Classifying images using Convolution Neural Network and Keras-Tensorflow Backend
 
-# Aim: To classify the images of Dog vs Cat using Convolution Neural Network and Keras-Tensorflow backend
+Aim: To classify the images of Dog vs Cat using Convolution Neural Network and Keras-Tensorflow backend
 
-# Dataset: Data consists of 10000 images of Cats and Dogs
+Dataset: Data consists of 10000 images of Cats and Dogs
 
-# Model Building Steps:
+Model Building Steps:
 1. Importing Keras libraries using tensorflow backend.
 2. Initializing the CNN input layer using Sequential class
 3. Adding first 2D Convolution layer
@@ -19,9 +19,9 @@
 11. Testing the model on new images
 
 
-# Results:
+Results:
 
 Model's classification accuracy: 81%
 
-# Reference: Udemy Machine Learing
+Reference: Udemy Machine Learing
 
