@@ -23,5 +23,5 @@ Results:
 
 Model's classification accuracy: 81%
 
-Reference: Udemy Machine Learing
+Reference: Udemy Machine Learning
 
