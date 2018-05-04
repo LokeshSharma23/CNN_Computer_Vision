@@ -25,4 +25,4 @@ https://drive.google.com/drive/folders/15BWpu4tUU3ciBVo9x5J_Qtfrd37xn4xS?usp=sha
 
 Model's classification accuracy: 81%
 
-# Reference: Udemy Machine Learing
+# Reference: Udemy Machine Learning
